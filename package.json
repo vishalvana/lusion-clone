@@ -1,0 +1,10 @@
+{
+  "name": "lusion-clone",
+  "private": true,
+  "description": "Private study mirror of the built lusion.co site. Not for redistribution.",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "fill": "node scripts/serve.mjs 4179 --fill"
+  }
+}
